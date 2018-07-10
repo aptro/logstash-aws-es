@@ -1,0 +1,1 @@
+# logstash-aws-es
